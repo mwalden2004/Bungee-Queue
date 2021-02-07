@@ -1,0 +1,4 @@
+name: queueserver_proxy
+main: tech.mwalden.queueserver.proxy.App
+version: 1
+author: Matthew_W
